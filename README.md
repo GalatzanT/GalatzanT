@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tudor</h1>
-<h3 align="center">Student(passionate programmer and volunteer))</h3>
+<h3 align="center">Student at the Faculty of Mathematics and Informatics BBU</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
