@@ -2,4 +2,3 @@
 <h3 align="center">Student at the Faculty of Mathematics and Informatics BBU</h3>
 
 
-
