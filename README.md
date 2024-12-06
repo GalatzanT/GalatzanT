@@ -5,6 +5,7 @@
 <h5>Trying to make a living and explore all the parts in the IT Domain. Also I am trying to learn so that I can help others as mush as possible</h5>
 
 ### Top Languages Card
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=galatzant&show_icons=true&locale=en&layout=compact&cache_seconds=3600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=galatzant&show_icons=true&locale=en&layout=compact&cache_seconds=3600&v=1)
+
 
 
